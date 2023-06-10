@@ -33,6 +33,16 @@ body{
     box-shadow: px 1px 5px px hsl(180, 29%, 50%);
 }
 
+#content-three{
+    height: 20vh;
+    width: 70vw;
+    background-color: hsl(0, 0%, 100%);
+    margin: 0 auto;
+    border-radius: 10px;
+   
+    box-shadow: px 1px 5px px hsl(180, 29%, 50%);
+}
+
 #content-one-circle, #content-two-circle{
     height: 5rem;
     width: 5rem;
